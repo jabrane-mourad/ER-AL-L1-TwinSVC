@@ -3,9 +3,9 @@ L1-TwinSVC Clustering for Efficient Entity Resolution: Solving the Cold Start Pr
 
 
 
-|  ![AL-L1TwinSVC workflow](cache/workflow.jpg)  | 
-|:----------------------------------------------:| 
-| *Entity Resolution with AL-L1TwinSVC workflow* |
+| ![AL-L1TwinSVC workflow](datasets/cache/workflow.jpg) | 
+|:-----------------------------------------------------:| 
+|    *Entity Resolution with AL-L1TwinSVC workflow*     |
 
 AL-L1-TwinSVC Framework for performing entity and text matching using
 L1-TwinSVC Clustering for solving the cold start problem through active learning.
